@@ -1,0 +1,4 @@
+﻿  advert.cpp
+c:\users\urana\downloads\graphics module cs\graphics\advert\advert\advert.cpp(123): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  advert.vcxproj -> C:\Users\urana\downloads\Graphics Module CS\Graphics\advert\Debug\advert.exe
+  advert.vcxproj -> C:\Users\urana\downloads\Graphics Module CS\Graphics\advert\Debug\advert.pdb (Full PDB)
